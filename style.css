@@ -1,0 +1,26 @@
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    color: #002d72;
+}
+
+header {
+    background-color: #00bfff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #002d72;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
